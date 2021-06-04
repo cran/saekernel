@@ -1,0 +1,15 @@
+77beacd1eb4b22a99b859a341343c7b0 *DESCRIPTION
+31ba9f174cb81dcf61f5ee46e1b0cdfc *NAMESPACE
+2251cc0f282be9a532535fbeadec4141 *R/Data_saekernel.R
+533a020787e046bd565639beb8e6ad5b *R/mse_saekernel.R
+cba307bab2b230a37e62f2cedc626c7c *R/saekernel.R
+76d8c54e5a872950037c21fa87acf1a7 *README.md
+87383392f62f22fd6556c73053566b7d *build/vignette.rds
+656e7918b7e188efa2191ad49614ee5b *data/Data_saekernel.rda
+c11253d36b3ac3e6f27597c8944bfbbd *inst/doc/wicaksh_vignette.R
+d02729c6884106d5e14caec402ba507e *inst/doc/wicaksh_vignette.Rmd
+d7050bf80028ee975c198fcab10d9f10 *inst/doc/wicaksh_vignette.html
+f8fc90a1bccaef8635549b08af137a9e *man/Data_saekernel.Rd
+f1040f8df487ebf508cc8d8c4cbb723c *man/mse_saekernel.Rd
+55025879b4bb0969dad03c2d67b45720 *man/saekernel.Rd
+d02729c6884106d5e14caec402ba507e *vignettes/wicaksh_vignette.Rmd
